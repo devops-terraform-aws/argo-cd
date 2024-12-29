@@ -1,4 +1,7 @@
-#### Commands
+# Kubernetes Cluster and ArgoCD
+To spin up `Kubernetes Cluster` on AWS, see [kubernetes-cluster](https://github.com/devops-terraform-aws/kubernetes-cluster)
+
+## Configure ArgoCD
 
 ```bash
 # install ArgoCD in k8s
